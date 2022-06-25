@@ -1,8 +1,9 @@
 Link to unlisted youtube video:
-
+https://www.youtube.com/watch?v=rXnWrymug_s
 
 Public link to the concept map (Anyone on the internet can view without login):
-https://lucid.app/lucidchart/7bddcb97-1e35-4736-93fe-de22b222b59d/edit?viewport_loc=40%2C-147%2C1707%2C821%2C0_0&invitationId=inv_8fbabd14-984d-48ce-9be7-d76fd0f080d9#
+https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=CSE713%20Concept%20map.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1SzuoobhBieFSWARAXzXSRfgpPGurcCGp%26export%3Ddownload
+
 
 Book name and link:
 Speech and Language Processing (3rd ed. draft) Dan Jurafsky and James H. Martin
