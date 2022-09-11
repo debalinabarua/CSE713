@@ -4,6 +4,11 @@ https://www.youtube.com/watch?v=p4feOY6XwzQ
 Public link to Overleaf:
 https://www.overleaf.com/read/bknpzhbrdwxz
 
+Conference Link: 
+https://icisc-conf.org/
+
+Conference Name: The 2023 International Conference on Images, Signals, and Computing
+Conference Submission Deadline : 30 October 2022
 
 Group Number:
 5
