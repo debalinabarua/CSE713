@@ -4,11 +4,22 @@ https://www.youtube.com/watch?v=p4feOY6XwzQ
 Public link to Overleaf:
 https://www.overleaf.com/read/bknpzhbrdwxz
 
-Conference Link: 
-https://icisc-conf.org/
+Paper Title:
+Face Mask Recognition During KYC Generation from a Live Photo Detection Methodology
+
+Paper submission date:
+11 Sep 2022
+
+Paper submission deadline:
+30 October 2022
+
+Paper submission ID: (received) from conference/workshop
+3
 
 Conference Name: The 2023 International Conference on Images, Signals, and Computing
-Conference Submission Deadline : 30 October 2022
+
+Conference Link: 
+https://icisc-conf.org/
 
 Group Number:
 5
